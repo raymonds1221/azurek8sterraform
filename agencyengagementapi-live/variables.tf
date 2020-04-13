@@ -1,0 +1,12 @@
+variable "az_storage_access_key" {}
+variable "storage_account_name" {}
+variable "container_name" {}
+variable "key" {}
+variable "azure_sql_username" {}
+variable "azure_sql_password" {}
+variable "service_bus_agency_engagement_connection_string" {}
+variable "service_bus_employer_notification_connection_string" {}
+variable "service_bus_employer_emailalert_connection_string" {}
+variable "kubernetes_host" {}
+variable "kubernetes_ca_cert" {}
+variable "token_reviewer_jwt" {}
